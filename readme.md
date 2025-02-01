@@ -1,4 +1,4 @@
-# A Simple Credit Card
+# Coming Soon Template
 
 ## Project Overview
 
